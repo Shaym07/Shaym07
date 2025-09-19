@@ -1,0 +1,27 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allow manual runs
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # ✅ Update GitHub Activity (recent commits, PRs, issues)
+      - name: GitHub Activity
+        uses: JamesIves/github-activity-readme@v0.3.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ✅ Update Recent Repos
+      - name: Latest Repos
+        uses: gautamkrishnar/recent-repos@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
