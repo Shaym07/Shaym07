@@ -41,7 +41,6 @@ C, C++, Python basics, or ML beginner topics
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,6 +55,18 @@ C, C++, Python basics, or ML beginner topics
 ![](https://nirzak-streak-stats.vercel.app/?user=Shaym07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaym07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+## 🔄 Latest GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📂 Latest Projects
+<!--START_SECTION:recent-repos-->
+<!--END_SECTION:recent-repos-->
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -65,4 +76,4 @@ C, C++, Python basics, or ML beginner topics
 ---
 [![](https://visitcount.itsvg.in/api?id=Shaym07&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Auto-updating sections powered by GitHub Actions -->
